@@ -10,7 +10,7 @@
 
 This web application uses advanced machine learning algorithms to predict diabetes risk based on medical parameters. Built as part of the **Dreamflow 50-Day Challenge** and DS Capstone Project.
 
-**Live Demo:** [Try it here!](https://huggingface.co/spaces/YOUR_USERNAME/diabetes-predictor)
+**Live Demo:** [Try it here!](https://huggingface.co/spaces/AcID3r/diabetes-predictor-web)
 
 ## ✨ Features
 
@@ -24,7 +24,7 @@ This web application uses advanced machine learning algorithms to predict diabet
 ## 🚀 Quick Start
 
 ### Option 1: Use Online (Recommended)
-Visit the live app: [https://huggingface.co/spaces/YOUR_USERNAME/diabetes-predictor](https://huggingface.co/spaces/YOUR_USERNAME/diabetes-predictor)
+Visit the live app: [https://huggingface.co/spaces/AcID3r/diabetes-predictor-web](https://huggingface.co/spaces/AcID3r/diabetes-predictor-web)
 
 ### Option 2: Run Locally
 
@@ -102,9 +102,9 @@ diabetes-predictor/
 ## 🎓 Academic Context
 
 **Project:** DS Capstone - Diabetes Prediction Using Classical ML Approaches  
-**Author:** Madhav N Joshi [iitg_ds_2501358]  
-**Institution:** [Your Institution]  
-**Date:** January 2026
+**Author:** Madhav N Joshi  
+  
+**Date:** 10th January 2026
 
 ### Research Highlights:
 - ✅ Compared 8 classical ML algorithms
@@ -143,10 +143,9 @@ This project was built as part of the **Dreamflow 50-Day Challenge** (November 1
 ## 📧 Contact
 
 **Madhav N Joshi**  
-Student ID: iitg_ds_2501358  
-Email: [Your Email]  
-GitHub: [Your GitHub]
+Email: madhav.joshi7373@gmail.com 
 
 ---
+
 
 **Built with ❤️ for the Dreamflow 50-Day Challenge**
