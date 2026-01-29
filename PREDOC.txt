@@ -1,0 +1,40 @@
+
+
+What is the problem that you are solving?
+
+We are solving the Diagnostic Gap—1. The Global Accessibility Crisis The current healthcare model is centralized and reactive. To get a credible diabetes screening, a patient typically needs a physical clinic, a specialist's time, and expensive diagnostic equipment.  The Reality: In rural or developing regions, there is often one doctor for every 10,000 people.  The Result: Millions live in a "pre-symptomatic" state for years, unaware that their internal metrics—like Glucose and BMI—are trending toward disaster Our Solution: PreDoc uses Multi-Model Intelligence to synthesize 8 distinct physiological markers. We aren't looking at these numbers in isolation; we are using high-dimensional mathematics (via XGBoost and Random Forest) to find the hidden patterns that a human eye—or a simple spreadsheet—would miss.The Architectural Safeguard: We engineered PreDoc with Local Persistence. By using a local PredictionService, we ensure that the user's history stays on their device
+
+
+Published App Link
+
+https://uhi7ris4hzcnbm7iu5cu.share.dreamflow.app/
+
+
+Share you dreamflow project link/url
+
+https://app.dreamflow.com/project/bc30f4d7-b502-45b3-bbeb-1782473f6da8
+
+
+Breif
+
+As the Founder of PreDoc, I didn't set out to build another health tracker. I set out to solve a global crisis. Diabetes affects over 500 million people worldwide, and nearly half are undiagnosed. The bottleneck is access to specialized screening. PreDoc is the solution: a production-grade, globally accessible AI engine engineered to decentralize medical intelligence.
+
+First Principles Engineering: The Architecture
+We built PreDoc from the ground up using a "Thin Client, Heavy Compute" philosophy.
+
+The Frontend (The Edge): Built with Dreamflow, the interface is optimized for high-speed data entry and accessibility. It isn't just a form; it’s a validation layer that ensures every bit of telemetry—from BMI to Insulin—is sanitized before transmission.
+
+The Backend (The Engine): Hosted on Hugging Face, our inference engine is built for scale. opting for a robust API architecture that can handle concurrent requests globally with sub-second latency.
+
+The Multi-Model Core: Most apps use one model. PreDoc uses 8. Why? Because medical data is messy. By implementing an ensemble-ready architecture (including XGBoost, LightGBM, and Random Forest), we allow researchers and clinicians to cross-validate results across different mathematical paradigms—from gradient boosting to distance-based KNN.
+
+We chose Dart for its reactive nature and Markdown for our reporting engine. When a user hits "Predict," they don't get a number; they get a professional, selectable analysis. Our local PredictionService ensures that even if connectivity is lost, the user’s longitudinal health data is persisted securely via a local SQLite/Hive implementation.
+
+Vision & Scale PreDoc is ready for rural clinic integration. Our roadmap includes Federated Learning to retrain models on hospital data while maintaining 100% patient privacy. We are moving from reactive healthcare to a world where diagnostic power is democratized.
+
+This is the future of preventative medicine. This is PreDoc.
+
+
+Share a Google Doc or Notion Public Link
+
+https://docs.google.com/document/d/1LmZIDWjEBuLaWRg7iHdT1e1eX_2nlYZ0/edit?usp=sharing&ouid=110414919264880819889&rtpof=true&sd=true
